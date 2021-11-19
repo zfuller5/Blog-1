@@ -1,4 +1,5 @@
 # Project 1: Standardized Test Analysis
+-By Zach Fuller
 
 ---
 ## Problem Statement
