@@ -1,5 +1,6 @@
 # Box Office Predictor
 ## Attempting to predict box office success
+-By Zach Fuller
 
 ### Description
 ---
