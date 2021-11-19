@@ -1,5 +1,6 @@
 # Heisman Trophy Predictor
-## Using Data Modeling to predict the Heisman Trophy Winner - Paul, Tab, and Zach
+## Using Data Modeling to predict the Heisman Trophy Winner
+-By Zach Fuller with contributions from Paul Harris and Tab Chapman
 
 ### Description
 ---
