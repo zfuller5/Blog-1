@@ -1,5 +1,6 @@
 # DraftKings NFL Predictor
-##### -Using Data Modeling to predict NFL player performance
+##### Using Data Modeling to predict NFL player performance
+-By Zach Fuller
 
 ### Description
 ---
