@@ -1,5 +1,6 @@
 # Flip or Flop - Ames, IA
 ## Taking a look at whether to renovate a home, sell, or rent a home in Ames, Iowa
+-By Zach Fuller
 
 ### Description
 ---
