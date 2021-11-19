@@ -1,4 +1,5 @@
 # Truth About Cats and Dogs
+-By Zach Fuller
 
 ### Description
 ---
